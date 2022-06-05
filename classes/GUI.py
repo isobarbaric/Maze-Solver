@@ -11,7 +11,7 @@ class GUI:
         self.maze_size = -1
 
         # setting the title to an appropriate name 
-        self.root.title('Maze Solver')
+        self.root.title('Pathfinder')
 
     def main(self):
         # setting the size of the Tk object to the appropriate size
