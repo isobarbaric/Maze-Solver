@@ -1,3 +1,0 @@
-([('Pathfinder',
-   '/Users/isobarbaric/Desktop/Dev/Projects/Pathfinder/dist/Pathfinder',
-   'EXECUTABLE')],)
