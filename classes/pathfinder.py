@@ -146,7 +146,7 @@ class Pathfinder:
         # updating the pygame display to reflect the changes of setting some blocks to a different color
         pygame.display.update()
 
-    def main(self):
+    def run(self):
         # initialize pygame to start making the game window
         pygame.init()
         

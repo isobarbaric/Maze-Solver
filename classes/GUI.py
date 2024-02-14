@@ -5,12 +5,12 @@ class GUI:
 
     def __init__(self):
         # creating a variable for a Tk object
-        self.root = Tk() 
+        self.root = Tk()
 
         # setting the maze_size variable to a sentinel value, its actual value will be taken via user input using a graphical interface
         self.maze_size = -1
 
-        # setting the title to an appropriate name 
+        # setting the title to an appropriate name
         self.root.title('Pathfinder')
 
     def main(self):
