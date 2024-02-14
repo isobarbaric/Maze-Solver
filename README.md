@@ -23,11 +23,15 @@ https://github.com/isobarbaric/VocabVoyager/assets/76544615/8f10d0d4-0d9d-4079-b
 
 ### Maze Generation
 
-<img src="assets/loading-maze.png" alt="Loading Maze" height=500px>
+<p align="center">
+   <img src="assets/loading-maze.png" alt="Loading Maze" height=500px>
+</p>
 
 ### Finding a Path
 
-<img src="assets/starting-maze.png" alt="Finding a Path" height=500px>
+<p align="center">
+   <img src="assets/starting-maze.png" alt="Finding a Path" height=500px>
+</p>
 
 ## Try out Pathfinder
 
