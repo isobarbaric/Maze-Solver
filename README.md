@@ -49,7 +49,7 @@ python main.py
 
 ### Getting an Executable File to Run Directly
 
-To get an executable to run directly without having to deal with source code, visit the releases section (LINK) on this repository and there, according to the operating system you are using, the corresponding file can be downloaded - either .exe for Windows or .dmg for Mac users. After downloading either of these, simply clicking on them will run the project directly!
+For a hassle-free start with the executable, bypassing the need to interact with source code, navigate to [the releases section (https://github.com/isobarbaric/Pathfinder/releases/tag/Pathfinder) of this repository. Choose and download the appropriate file for your operating system - .exe for Windows or .dmg for Mac users. Once downloaded, a simple click on the file will directly launch the project!
 
 ## Attributions
 
