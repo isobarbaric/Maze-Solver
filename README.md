@@ -1,26 +1,42 @@
-# Pathfinder
+# Pathfinder :compass:
 
-Thank you for checking out this project!
+- [Visual Tour](#visual-tour)
+   - [Live Demo](#live-demo)
+   - [Generating a Maze](#maze-generation)
+   - [Finding a Path](#finding-a-path)
+- [Try out Pathfinder](#try-out-pathfinder)
+- [Attributions](#attributions)
 
-To try using this project, there are two primary ways this can be done: either through cloning the project or downloading one of the releases for this project.
+----
 
-Once either of those are done, if you decide to run the source code itself, and not the ``.exe`` or ``.dmg`` from the releases, simply follow the following steps to get started:
+Embark on a journey of discovery and strategy with Pathfinder, the premier maze exploration and solving experience designed for the curious and the clever.
 
+Pathfinder elevates the timeless intrigue of mazes, offering an interactive platform where you control the complexity of the challenge ahead. Experience the creation of your maze in real-time, as its design intricately unfolds before you, presenting a blend of complexity and intrigue. Witness as Pathfinder charts a clear path through the labyrinth, marking your route to success with a distinctive green line from start to finish.
 
-## Getting Started 
+Designed for thinkers, strategists, and anyone with a penchant for puzzles, Pathfinder elevates the classic maze experience into a visually captivating and intellectually stimulating adventure.
 
-There are two primary ways to go about trying this project out. Either the source code can be run or one of the executable files can be downloaded and run directly from the releases
+## Visual Tour
+
+### Live Demo
+
+https://github.com/isobarbaric/VocabVoyager/assets/76544615/8f10d0d4-0d9d-4079-b123-071a24a7d203
+
+### Maze Generation
+
+<img src="assets/loading-maze.png" alt="Loading Maze" height=500px>
+
+### Finding a Path
+
+<img src="assets/starting-maze.png" alt="Finding a Path" height=500px>
+
+## Try out Pathfinder
+
+There are two primary ways to go about trying this project out: either through cloning the project or downloading one of the releases for this project.
+
+Once either of those are done, if you decide to run the source code itself, and not the ``.exe`` or ``.dmg`` from the releases, simply follow the following steps to get started.
 
 ### Running the Source Code
 
-To do this on Linux or Mac:
-```
-git clone https://github.com/isobarbaric/Pathfinder.git
-cd Pathfinder
-python3 main.py
-```
-
-To do this on Windows:
 ```
 git clone https://github.com/isobarbaric/Pathfinder.git
 cd Pathfinder
